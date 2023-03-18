@@ -1,0 +1,8 @@
+.video-link {
+    color: #212529;
+    text-decoration: none;
+}
+.video-link:hover {
+    color: #f47624;
+    transition: all ease 0.3s;
+}
